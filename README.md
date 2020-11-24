@@ -115,7 +115,7 @@ berfungsi untuk memanggil/menyimpan data yang sudah diinput ke dalam directory. 
 ## TUGAS LATIHAN PADA PRAKTIKUM 4
 
 #### SOAL
-![soal](ssLatPraktikum4/soal.PNG)
+![soal](ssLatPraktikum4/soal4.PNG)
 
 #### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
