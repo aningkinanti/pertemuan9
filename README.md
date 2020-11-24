@@ -65,7 +65,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![output](ssLatPraktikum4/output.PNG)
 
 #### ANALISIS
-•	Penjelasan bisa dilihat pada comment yang tertulis disyntax.
+•	Penjelasan singkat fungsi source sudah tertera pada comment disyntax.
 
 ## TUGAS PRAKTIKUM 4
 
@@ -241,7 +241,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![output](ssLatPraktikum5/output.PNG)
 
 #### ANALISIS
-•	Penjelasan bisa dilihat pada comment yang tertulis disyntax.
+•	Penjelasan singkat fungsi source sudah tertera pada comment disyntax.
 
 
 ## SEKIAN DAN TERIMAKASIH :)
