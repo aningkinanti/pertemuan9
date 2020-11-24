@@ -238,7 +238,7 @@ print(90*"-")
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![output](ssLatPraktikum5output.PNG)
+![output](ssLatPraktikum5/output.PNG)
 
 #### ANALISIS
 •	Penjelasan bisa dilihat pada comment yang tertulis disyntax.
