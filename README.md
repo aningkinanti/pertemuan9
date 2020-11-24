@@ -65,7 +65,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![output](ssLatPraktikum4/output.PNG)
 
 #### ANALISIS
-•	Penjelasan singkat fungsi source code kurang lebih seperti yang sudah dijelaskan pada comment diSyntax
+•	Penjelasan singkat fungsi source code kurang lebih seperti yang sudah dijelaskan di comment yang tertera pada Syntax
 
 ## TUGAS PRAKTIKUM 4
 
@@ -241,7 +241,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![output](ssLatPraktikum5/output.PNG)
 
 #### ANALISIS
-•	Penjelasan singkat fungsi source code kurang lebih seperti yang sudah dijelaskan pada comment diSyntax
+•	Penjelasan singkat fungsi source code kurang lebih seperti yang sudah dijelaskan di comment yang tertera pada Syntax
 
 
 ## SEKIAN DAN TERIMAKASIH :)
